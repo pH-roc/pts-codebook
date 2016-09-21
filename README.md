@@ -1,2 +1,4 @@
 # pts-codebook
-PTS Codebook
+PTS Codebook Project
+
+[http://www.politicalterrorscale.org/](http://www.politicalterrorscale.org/)
